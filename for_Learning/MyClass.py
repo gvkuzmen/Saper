@@ -81,7 +81,6 @@ buf.add(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)
 buf.get_current_part()
 
 
-
 # Второй вариант решения
 
 class Buffer:
